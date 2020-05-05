@@ -1,0 +1,4 @@
+{ Id: 10 }
+{ marka: siema }
+{ model: witam }
+{ cena: 23pln }
